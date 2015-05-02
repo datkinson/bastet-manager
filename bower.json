@@ -17,6 +17,8 @@
     "tests"
   ],
   "dependencies": {
-    "winstore-jscompat": "https://github.com/MSOpenTech/winstore-jscompat.git"
+    "winstore-jscompat": "https://github.com/MSOpenTech/winstore-jscompat.git",
+    "pouchdb": "~3.4.0",
+    "jquery": "~2.1.0"
   }
 }
