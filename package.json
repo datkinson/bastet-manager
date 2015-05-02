@@ -4,7 +4,8 @@
   "description": "management application for Bastet home automation server",
   "main": "www/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower update"
   },
   "repository": {
     "type": "git",
