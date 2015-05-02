@@ -20,4 +20,5 @@ db.put(doc);
 // get document out and console log it
 db.get('mittens').then(function (doc) {
   console.log(doc);
+  jQuery('.result').html(doc.hobbies);
 });
