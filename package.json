@@ -1,0 +1,32 @@
+{
+  "name": "bastetmanager",
+  "version": "0.0.1",
+  "description": "management application for Bastet home automation server",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datkinson/bastet-manager.git"
+  },
+  "keywords": [
+    "bastet",
+    "home",
+    "automation",
+    "android",
+    "windows",
+    "phone",
+    "ios"
+  ],
+  "author": "Daniel Atkinson, Martin Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datkinson/bastet-manager/issues"
+  },
+  "homepage": "https://github.com/datkinson/bastet-manager",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "cordova": "^5.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "bastetmanager",
+  "version": "0.0.1",
+  "homepage": "https://github.com/datkinson/bastet-manager",
+  "authors": [
+    "Daniel Atkinson <hourd.tasa@gmail.com>"
+  ],
+  "description": "management application for Bastet home automation server",
+  "main": "www/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "winstore-jscompat": "https://github.com/MSOpenTech/winstore-jscompat.git",
+    "jquery": "~2.1.4",
+    "pouchdb": "~3.4.0"
+  }
+}
